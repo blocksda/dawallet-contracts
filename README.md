@@ -1,9 +1,9 @@
 <div align="center">
-  <h1 align="center">SoulWallet Contracts</h1>
+  <h1 align="center">DA Wallet Contracts</h1>
 </div>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/proofofsoulprotocol/soul-wallet-packages/main/src/assets/logo.svg">
+<img src="dawallet.jpg">
 </div>
 
 ## Features
